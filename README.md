@@ -6,7 +6,7 @@ Inside Project folder you can find images of UI and/or project documentation.<br
 * User can view and search recipes from API
 * CRUD operations (Create, Read, Update, Delete user recipes)
 
-### Installing
+## Installing
 To install all the dependencies needed to run the application open the project in Android Studio.
 
 ## Built With
