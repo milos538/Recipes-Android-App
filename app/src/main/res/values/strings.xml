@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Recipes</string>
+    <string name="some_popular_recipes_today">Some popular recipes today</string>
+    <string name="search_recipes">Search recipes..</string>
+    <string name="vegetarian">Vegetarian</string>
+    <string name="ready_in_minutes">Ready In Minutes</string>
+    <string name="vegan">Vegan</string>
+    <string name="glutenfree">GlutenFree</string>
+    <string name="cheap">Cheap</string>
+    <string name="popular">Popular</string>
+    <string name="recipe_name">Recipe name</string>
+    <string name="add_new_recipe">Add new recipe</string>
+    <string name="recipe_description">Recipe description</string>
+    <string name="image">image</string>
+    <string name="add_image">Add image</string>
+    <string name="add_recipe">Add recipe</string>
+    <string name="update_your_recipe">Update your recipe</string>
+    <string name="update_recipe">Update recipe</string>
+    <string name="update_image">Update image</string>
+    <string name="delete_recipe">DELETE RECIPE</string>
+</resources>
